@@ -64,20 +64,6 @@ I specialize in **end-to-end data analysis** — from data cleaning and explorat
 
 ---
 
-### 📺 YouTube Channel Performance – EDA  
-- Analyzed views, likes, and subscriber growth trends  
-- Identified high-performing content categories and engagement patterns  
-- Presented insights using Python-based visualizations  
-
----
-
-### 📉 Stock Market Analysis  
-- Analyzed historical stock price data to study trends and volatility  
-- Cleaned and processed time-series financial data  
-- Derived insights to support basic investment analysis  
-
----
-
 ### 🧹 Data Cleaning & Analysis of Startup Layoffs (MySQL)  
 - Cleaned raw layoff data using SQL queries  
 - Performed aggregation and trend analysis across industries and years  
